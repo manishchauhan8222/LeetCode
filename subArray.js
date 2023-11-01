@@ -11,4 +11,5 @@ function subArray(inputArray) {
     return maxSum;
 }
 console.log(subArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+ 
 
