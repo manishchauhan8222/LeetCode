@@ -4,7 +4,7 @@ function nextPermutation(nums) {
     while (i >= 0 && nums[i] >= nums[i + 1]) {
         i--;
     }
-    // return i;
+  
     if (i <= 0) {
         return nums.reverse();
     }
