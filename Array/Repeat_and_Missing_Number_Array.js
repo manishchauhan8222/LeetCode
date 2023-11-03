@@ -17,4 +17,4 @@ function repeatedNumber(A) {
     }
     return result;
 }
-console.log(repeatedNumber([3, 1, 2, 3, 5, 3]))
+console.log(repeatedNumber([3, 1, 2, 3, 5, 5]))
